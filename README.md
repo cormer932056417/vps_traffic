@@ -38,4 +38,4 @@
 直接在终端执行以下命令：
 
 ```bash
-bash -c "$(curl -L [https://raw.githubusercontent.com/seg932/vps_traffic/main/vps_vnstat_telegram.sh](https://raw.githubusercontent.com/seg932/vps_traffic/main/vps_vnstat_telegram.sh))" @ install
+bash -c "$(curl -L [https://raw.githubusercontent.com/cormer932056417/vps_traffic/main/vps_vnstat_telegram.sh](https://raw.githubusercontent.com/seg932/vps_traffic/main/vps_vnstat_telegram.sh))" @ install
